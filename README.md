@@ -8,6 +8,10 @@ This repository contains a web development project titled "Blog Website," develo
 - **Description**: Design and develop a blog website where users can read articles, view associated images, explore different categories, and interact through a comment section.
 - **Technologies Used**: HTML, CSS, JavaScript
 
+## Demo
+![Memory Game Preview](Demo/Tech-Insights-Blog1.png)
+
+
 ## Key Features
 1. **Article Management**: Display multiple articles dynamically.
 2. **Image Integration**: Include images for each article to enhance visual appeal.

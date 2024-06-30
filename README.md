@@ -22,7 +22,7 @@ This repository contains a web development project titled "Blog Website," develo
 
 ## How to Run
 1. Clone the repository:
-git clone <repository-url>
+git clone https://github.com/dveersingh000/CodeClauseInternship_Blog_Project.git
 
 2. Open `index.html` in a web browser to view the blog website.
 
@@ -32,4 +32,4 @@ git clone <repository-url>
 - Integrate a backend server for storing and managing articles and comments.
 
 ## Credits
-Developed by [Your Name] as part of the Web Development Internship at CodeClause.
+Developed by Dharamveer Singh as part of the Web Development Internship at CodeClause.

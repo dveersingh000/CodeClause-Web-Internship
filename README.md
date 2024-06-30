@@ -10,7 +10,7 @@ This repository contains a web development project titled "Blog Website," develo
 
 ## Demo
 ![Memory Game Preview](Demo/Tech-Insights-Blog1.png)
-
+![Memory Game Preview](Demo/Tech-Insights-Blog2.png)
 
 ## Key Features
 1. **Article Management**: Display multiple articles dynamically.

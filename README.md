@@ -9,8 +9,8 @@ This repository contains a web development project titled "Blog Website," develo
 - **Technologies Used**: HTML, CSS, JavaScript
 
 ## Demo
-![Blog Website Preview](Demo/Tech-Insights-Blog1.png)
-![Blog Website Preview](Demo/Tech-Insights-Blog2.png)
+<img src="Demo/Tech-Insights-Blog1.png" alt="Blog Website Preview" width="400" style="margin-right: 20px;"><img src="Demo/Tech-Insights-Blog2.png" alt="Blog Website Preview" width="400">
+
 
 ## Key Features
 1. **Article Management**: Display multiple articles dynamically.
